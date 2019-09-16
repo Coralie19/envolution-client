@@ -10,14 +10,14 @@ Based on their geolocation, this PWA matches volunteers with projects that refle
 
 ## Getting started
 
-This is the front-end repository. The back-end can be found at : https://github.com/jonas-wedemeyer/envolution-server
+This is the front-end repository. The back-end can be found at : https://github.com/Coralie19/envolution-server
 
 ### Installation
 
 1. Begin by forking this repository, and cloning to your computer. 
 
  ```bash
-   git clone https://github.com/jonas-wedemeyer/envolution-client
+   git clone https://github.com/Coralie19/envolution-client
  ```
    
 2.  Install the necessary dependencies. Navigate to the `client` folder and run:
